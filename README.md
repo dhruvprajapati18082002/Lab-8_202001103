@@ -112,5 +112,5 @@ Test for lengthinInInches
 **assertEquals(12,ken.lengthInInches());**
 
 **}**
-
+This is the link of the doc: https://docs.google.com/document/d/1-cI3xoIqxDYvYyI7lhLnTCXwkHV7bW6VKQRSyqRCEKQ/edit#heading=h.u36kz31ee0pi
 **THANKYOU**
